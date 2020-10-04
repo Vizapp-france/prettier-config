@@ -1,19 +1,18 @@
 # @vizapp-france/prettier-config
 
-A Prettier
-[shareable config](https://prettier.io/docs/en/configuration.html#sharing-configurations)
-for projects using **[Prettier](https://prettier.io/)** and
-**[JavaScript Standard Style](https://standardjs.com/)** as ESLint rules or
-separate processes.
-
 ## Installation
+
+### Install prettier
+
+```
+npm i -D prettier eslint-plugin-prettier eslint-config-prettier
+```
+
+### Install the package
 
 ```
 npm install --save-dev @vizapp-france/prettier-config
 ```
-
-_This is only a shareable configuration. It does not install Prettier, Standard,
-ESLint, or any other part of the tool chain._
 
 ## Usage
 
@@ -24,7 +23,7 @@ Reference it in `package.json` using the `prettier` property:
   "name": "my-projects-name",
   "prettier": "@vizapp-france/prettier-config",
   "devDependencies": {
-    "@vizapp-france/prettier-config": "1.0.0 - 1.2.0"
+    "@vizapp-france/prettier-config": "1.0.0 - 2.0.0"
   }
 }
 ```
@@ -42,14 +41,14 @@ already have `prettier` installed in your project.
 
   ```json
   scripts: {
-    "format": "prettier '**/*.js' --write"
+    "prettier": "prettier '**/*.js' --write"
   }
   ```
 
   You can then run the following, to automatically format your project's code:
 
   ```
-  npm run format
+  npm run prettier
   ```
 
 ## Related repos
