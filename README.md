@@ -1,4 +1,4 @@
-# @vizapp/prettier-config
+# @vizapp-france/prettier-config
 
 A Prettier [shareable config](https://prettier.io/docs/en/configuration.html#sharing-configurations )
 for projects using **[Prettier](https://prettier.io/ )** and 
@@ -8,7 +8,7 @@ separate processes.
 ## Installation
 
 ```
-npm install --save-dev @vizapp/prettier-config
+npm install --save-dev @vizapp-france/prettier-config
 ```
 
 _This is only a shareable configuration. It does not install Prettier, Standard,
