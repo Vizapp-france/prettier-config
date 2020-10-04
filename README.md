@@ -11,7 +11,7 @@ npm i -D prettier eslint-plugin-prettier eslint-config-prettier
 ### Install the package
 
 ```
-npm install --save-dev @vizapp-france/prettier-config
+npm i -D @vizapp-france/prettier-config
 ```
 
 ## Usage
