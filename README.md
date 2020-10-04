@@ -28,6 +28,7 @@ Reference it in `package.json` using the `prettier` property:
 }
 ```
 
+<!-- 
 If you don't want to use `package.json`, you can use any of the supported
 extensions to export a string:
 
@@ -102,3 +103,4 @@ const modifiedConfig = merge(
 
 module.exports = modifiedConfig
 ```
+ -->
