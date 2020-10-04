@@ -1,0 +1,19 @@
+{
+  "name": "@vizapp/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Vizapp dev team projects",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vizapp-france/prettier-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "jsstandard",
+    "prettierconfig",
+    "vizapp"
+  ],
+  "author": "pnxdxt",
+  "license": "MIT"
+}
