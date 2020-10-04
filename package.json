@@ -1,5 +1,5 @@
 {
-  "name": "@vizapp/prettier-config",
+  "name": "@vizapp-france/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for Vizapp dev team projects",
   "main": ".prettierrc.json",
