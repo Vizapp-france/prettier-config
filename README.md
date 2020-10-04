@@ -21,9 +21,9 @@ Reference it in `package.json` using the `prettier` property:
 ```json
 {
   "name": "my-projects-name",
-  "prettier": "@vizapp/prettier-config",
+  "prettier": "@vizapp-france/prettier-config",
   "devDependencies" : {
-    "prettier-config": "^1.0.0"
+    "@vizapp-france/prettier-config": "1.0.0 - 1.2.0"
   }
 }
 ```
