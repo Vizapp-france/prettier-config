@@ -1,6 +1,7 @@
 # @vizapp-france/prettier-config
 
-A Prettier [shareable config](https://prettier.io/docs/en/configuration.html#sharing-configurations)
+A Prettier
+[shareable config](https://prettier.io/docs/en/configuration.html#sharing-configurations)
 for projects using **[Prettier](https://prettier.io/)** and
 **[JavaScript Standard Style](https://standardjs.com/)** as ESLint rules or
 separate processes.
@@ -30,11 +31,14 @@ Reference it in `package.json` using the `prettier` property:
 
 ## Running
 
-As this package only provides the Prettier configuration, it is assumed you already have `prettier` installed in your project.
+As this package only provides the Prettier configuration, it is assumed you
+already have `prettier` installed in your project.
 
-- It's recommended to install the relevant Editor Addons/Plugins and enable "Pretter on Save".
+- It's recommended to install the relevant Editor Addons/Plugins and enable
+  "Pretter on Save".
 
-- It's recommended to add a prettier script to `package.json`. An example one is:
+- It's recommended to add a prettier script to `package.json`. An example one
+  is:
 
   ```json
   scripts: {
@@ -50,7 +54,6 @@ As this package only provides the Prettier configuration, it is assumed you alre
 
 ## Related repos
 
-- https://github.com/zestia/prettier-config
-- https://github.com/zestia/eslint-config
+- https://github.com/vizapp-france/prettier-config
+- https://github.com/vizapp-france/eslint-config
 - https://github.com/zestia/stylelint-config
-- https://github.com/zestia/ember-template-lint-plugin
