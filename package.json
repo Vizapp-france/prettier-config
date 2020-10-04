@@ -14,9 +14,5 @@
     "prettierconfig",
     "vizapp"
   ],
-  "author": "pnxdxt",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "author": "pnxdxt"
 }
