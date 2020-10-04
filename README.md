@@ -41,7 +41,7 @@ already have `prettier` installed in your project.
 
   ```json
   scripts: {
-    "prettier": "prettier '**/*.js' --write"
+    "prettier": "prettier \"**/*.js\" --write"
   }
   ```
 
