@@ -1,6 +1,6 @@
 {
   "name": "@vizapp-france/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prettier config for Vizapp dev team projects",
   "main": ".prettierrc.json",
   "repository": {
