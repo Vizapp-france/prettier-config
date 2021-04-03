@@ -23,7 +23,7 @@ Reference it in `package.json` using the `prettier` property:
   "name": "my-projects-name",
   "prettier": "@vizapp-france/prettier-config",
   "devDependencies": {
-    "@vizapp-france/prettier-config": ">=1.0.9"
+    "@vizapp-france/prettier-config": ">=1.1"
   }
 }
 ```
