@@ -41,14 +41,14 @@ already have `prettier` installed in your project.
 
   ```json
   scripts: {
-    "prettier": "prettier \"**/*.js\" --write"
+    "format": "prettier \"**/*.js\" --write"
   }
   ```
 
   You can then run the following, to automatically format your project's code:
 
   ```
-  npm run prettier
+  npm run format
   ```
 
 ## Related repos
