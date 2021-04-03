@@ -20,7 +20,7 @@ Reference it in `package.json` using the `prettier` property:
 
 ```json
 {
-  "name": "my-projects-name",
+  "name": "my-project-name",
   "prettier": "@vizapp-france/prettier-config",
   "devDependencies": {
     "@vizapp-france/prettier-config": ">=1.1"
