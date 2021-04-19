@@ -20,11 +20,7 @@ Reference it in `package.json` using the `prettier` property:
 
 ```json
 {
-  "name": "my-project-name",
   "prettier": "@vizapp-france/prettier-config",
-  "devDependencies": {
-    "@vizapp-france/prettier-config": ">=1.1"
-  }
 }
 ```
 
@@ -41,14 +37,14 @@ already have `prettier` installed in your project.
 
   ```json
   scripts: {
-    "format": "prettier \"**/*.js\" --write"
+    "prettier": "prettier '**/*.{js,json,css,scss,html,hbs,md}' --write"
   }
   ```
 
   You can then run the following, to automatically format your project's code:
 
   ```
-  npm run format
+  npm run prettier
   ```
 
 ## Related repos
