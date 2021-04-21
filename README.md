@@ -38,6 +38,4 @@ npm run prettier
 
 ## Related repos
 
-- https://github.com/vizapp-france/prettier-config
 - https://github.com/vizapp-france/eslint-config
-- https://github.com/zestia/stylelint-config

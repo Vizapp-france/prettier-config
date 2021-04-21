@@ -8,10 +8,11 @@
     "url": "git+https://github.com/Vizapp-france/prettier-config.git"
   },
   "keywords": [
+    "prettier",
+    "prettier-config",
     "eslint",
-    "eslintconfig",
+    "eslint-config",
     "jsstandard",
-    "prettierconfig",
     "vizapp"
   ],
   "author": "pnxdxt"
