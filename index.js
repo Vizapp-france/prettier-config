@@ -15,9 +15,9 @@ module.exports = {
   // Do not print spaces between brackets in object literals.
   bracketSpacing: false,
   // Print trailing commas wherever possible when multi-line.
-  trailingComma: 'es5',
+  trailingComma: 'none',
   // Print semicolons at the ends of statements.
-  semi: true,
+  semi: false,
   // Use double quotes in JSX.
   jsxSingleQuote: false,
   // If your component has multi-line properties, close its tag on a new line.
