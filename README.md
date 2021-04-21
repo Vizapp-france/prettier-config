@@ -25,7 +25,7 @@ npm i -D @vizapp-france/prettier-config
 2. Add the following to `scripts` in `package.json`
 
    ```
-   "prettier": "prettier '**/*.{ts, js,json,css,scss,html,hbs,md}' --write"
+   "prettier": "prettier '**/*.{js,ts,json,css,scss,html,hbs,md}' --write"
    ```
 
 3. Install the relevant Editor Addon/Plugin and enable "Prettier on Save".
