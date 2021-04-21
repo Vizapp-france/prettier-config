@@ -2,12 +2,6 @@
 
 ## Installation
 
-### Install prettier
-
-```
-npm i -D prettier
-```
-
 ### Install the package
 
 ```

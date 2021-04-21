@@ -15,5 +15,8 @@
     "jsstandard",
     "vizapp"
   ],
-  "author": "pnxdxt"
+  "author": "pnxdxt",
+  "dependencies": {
+    "prettier": "2.2.1"
+  }
 }
