@@ -5,7 +5,7 @@
 ### Install prettier
 
 ```
-npm i -D prettier eslint-plugin-prettier eslint-config-prettier
+npm i -D prettier
 ```
 
 ### Install the package
